@@ -1,4 +1,5 @@
-![Snip-to-Speech](https://github.com/Vinventive/Snip-to-Speech/assets/91992989/7e7badd8-0a43-4a91-b47e-041dddd782b6)
+![Snip-to-Speech](https://github.com/user-attachments/assets/c4d9a3f8-75c0-445a-833c-c263afcde37b)
+
 # Snip-to-Speech
 Snip-to-Speech is an app made in Python that lets you take a snapshot of any part of your computer screen. It pulls out any text from that snapshot and then reads it out loud using text-to-speech.
 
